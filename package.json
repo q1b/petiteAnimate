@@ -1,18 +1,18 @@
 {
-  "name": "vue-petite-transition",
-  "version": "1.1.2",
+  "name": "petite-animate",
+  "version": "0.1.2",
   "description": "A simple solution for transition for petite-vue .",
   "files": [
     "dist"
   ],
-  "main": "dist/vue-petite-transition.umd.js",
-  "unpkg": "dist/vue-petite-transition.iife.js",
-  "jsdelivr": "dist/vue-petite-transition.iife.js",
-  "module": "./dist/vue-petite-transition.es.js",
+  "main": "dist/petite-animate.umd.js",
+  "unpkg": "dist/petite-animate.iife.js",
+  "jsdelivr": "dist/petite-animate.iife.js",
+  "module": "./dist/petite-animate.es.js",
   "exports": {
     ".": {
-      "import": "./dist/vue-petite-transition.es.js",
-      "require": "./dist/vue-petite-transition.umd.js"
+      "import": "./dist/petite-animate.es.js",
+      "require": "./dist/petite-animate.umd.js"
     }
   },
   "scripts": {
@@ -25,18 +25,18 @@
   },
   "keywords": [
     "vue-petite",
-    "vue-petite-transition",
+    "petite-animate",
     "transition-for-petite-vue",
     "petite-vue"
   ],
   "author": "sacarvy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sacarvy/petiteVueTransition/issues"
+    "url": "https://github.com/sacarvy/petiteAnimate/issues"
   },
-  "homepage": "https://github.com/sacarvy/petiteVueTransition#readme",
+  "homepage": "https://github.com/sacarvy/petiteAnimate#readme",
   "dependencies": {
-    "petite-vue": "^0.2.3",
-    "vite": "^2.4.3"
+    "petite-vue": "^0.3.0",
+    "vite": "^2.6.8"
   }
 }
