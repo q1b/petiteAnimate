@@ -8,7 +8,7 @@
 npm i petite-animate@latest
 ```
 
-(Check out Example)[https://codepen.io/Sacarvy/pen/WNOLMBx]
+[Check out Example](https://codepen.io/Sacarvy/pen/WNOLMBx)
 
 #### To install it through npm
 
